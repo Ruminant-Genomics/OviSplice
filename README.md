@@ -100,7 +100,7 @@ OviSplice/
 └── docs/PUBLIC_DATA_SOURCES.md # Official accessions/DOIs for all public input datasets
 ```
 
-- **Full 19-Checkpoint LOCO/Ablation Archive & 624,445-SNV Sheep Splicing Score Atlas:** Hosted on Zenodo (`<INSERT_PUBLIC_ZENODO_DOI>`).
+- **Full 19-Checkpoint LOCO/Ablation Archive & 624,445-SNV Sheep Splicing Score Atlas:** Hosted on Zenodo ([`doi:10.5281/zenodo.24503626`](https://doi.org/10.5281/zenodo.24503626)).
 - **Public Input Datasets:** Listed with official accessions and DOIs in [`docs/PUBLIC_DATA_SOURCES.md`](docs/PUBLIC_DATA_SOURCES.md).
 
 ---

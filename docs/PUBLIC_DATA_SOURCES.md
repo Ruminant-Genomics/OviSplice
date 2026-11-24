@@ -15,4 +15,4 @@ Following standard computational biology data-sharing practices, **OviSplice** d
 
 ## Author-Generated Model Checkpoints & Genome-Wide Prediction Scores (Zenodo)
 
-All 19 frozen OviSplice PyTorch checkpoints (5-fold LOCO ensemble, full 3-seed cross-species ensemble, and controlled single-task / random-initialization ablations) together with the self-generated **624,445-SNV sheep 15-head splicing prediction atlas** (`ovisplice_sheep_624k_snv_atlas.npz`) are archived on Zenodo (`<INSERT_PUBLIC_ZENODO_DOI>`).
+All 19 frozen OviSplice PyTorch checkpoints (5-fold LOCO ensemble, full 3-seed cross-species ensemble, and controlled single-task / random-initialization ablations; `ovisplice_ckpts_*_v1.0.tar.gz`) together with the self-generated **624,445-SNV sheep 15-head splicing prediction atlas** (`ovisplice_sheep_624k_snv_atlas.npz`) are archived on Zenodo ([`doi:10.5281/zenodo.24503626`](https://doi.org/10.5281/zenodo.24503626)).
