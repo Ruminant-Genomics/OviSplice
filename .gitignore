@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+*.so
+*.dll
+*.dylib
+*.o
+.DS_Store
+Thumbs.db
+*.tmp
+*.bam
+*.fna
+*.fa
+!examples/example_sequences.fa

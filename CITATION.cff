@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use OviSplice or Ruminant SpliceMap, please cite the accompanying article."
+title: "OviSplice: Dual-Species Multi-Tissue Deep Learning and Ruminant SpliceMap Framework"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Ruminant-Genomics/OviSplice"
+authors:
+  - name: "OviSplice Authors"
