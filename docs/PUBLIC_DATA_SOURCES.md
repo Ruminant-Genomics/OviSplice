@@ -6,12 +6,12 @@ Following standard computational biology data-sharing practices, **OviSplice** d
 | :--- | :--- | :--- |
 | **Sheep Reference Genome & Annotation** | `ARS-UI_Ramb_v2.0` (`NCBI RefSeq 104` + `Ensembl 113`) | NCBI Assembly `GCF_016772045.1` (`https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_016772045.1/`) and Ensembl Release 113 FTP (`https://ftp.ensembl.org/pub/release-113/gtf/ovis_aries_rambouillet/`) |
 | **Cattle Reference Genome & Annotation** | `ARS-UCD1.2` (`bosTau9`, `NCBI RefSeq`) | NCBI Assembly `GCF_002263795.1` (`https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_002263795.1/`) |
-| **SheepGTEx Consortium Atlas** | 8,148 training RNA-seq junction matrices, genotypes (`MAF >= 0.05`), fine-mapped sQTLs & GWAS colocalizations | SheepGTEx Portal (`https://sheepgtex.org/` / Gong et al., *Nature Genetics*, `doi:10.1038/s41588-026-02825-2`) |
+| **SheepGTEx Consortium Atlas** | 8,148 training RNA-seq junction matrices, genotypes (`MAF >= 0.05`), fine-mapped sQTLs & GWAS colocalizations | SheepGTEx Portal (`https://sheepgtex.farmgtex.org/` / Gong et al., *Nature Genetics* 2026, `doi:10.1038/s41588-026-02825-2`) |
 | **Independent Sheep Muscle Developmental Blind Test** | 12 raw RNA-seq BAMs across 4 prenatal/postnatal stages | NCBI GEO `GSE224958` / BioProject `PRJNA933184` |
-| **CattleGTEx Phase 1 Consortium Atlas** | 7,483 zero-shot RNA-seq junction matrices (12 organs), 28-tissue fine-mapped sQTLs & GWAS colocalizations | Zenodo `doi:10.5281/zenodo.7560235` and `doi:10.5281/zenodo.7559568` (Liu et al., *Nature Genetics* 2022) |
+| **CattleGTEx Phase 1 Consortium Atlas** | 7,483 zero-shot RNA-seq junction matrices (12 organs), 28-tissue fine-mapped sQTLs & GWAS colocalizations | Zenodo `doi:10.5281/zenodo.7560235` and CattleGTEx Portal (`https://cgtex.roslin.ed.ac.uk/downloads/`, Liu et al., *Nature Genetics* 2022) |
 | **Bovine Vex-seq MPRA Wet-Lab Benchmark** | 304 cattle variants (`121 Var.P + 183 Var.GWAS`) assayed in `MAC-T` & `HEK293T` cells | Charles et al., *Nature Communications* 2025 (`doi:10.1038/s41467-025-58970-5`, Supplementary Data) |
-| **OMIA Mendelian Splice-Disrupting Mutations** | Curated wet-lab causal splicing mutations in cattle (`9913`) and sheep (`9940`) | Online Mendelian Inheritance in Animals (`https://omia.org/`) |
-| **UCSC Pairwise Syntenic Alignment Chains** | Pairwise genome alignment chains (`bosTau9`, `oviAri4`/`ARS-UI_Ramb_v2.0`, `hg38`) | UCSC Genome Browser Downloads (`https://hgdownload.soe.ucsc.edu/downloads.html`) |
+| **OMIA Mendelian Splice-Disrupting Mutations** | Curated wet-lab causal splicing mutations in cattle (`9913`) and sheep (`9940`) | Online Mendelian Inheritance in Animals (`https://omia.org/`, `doi:10.25910/2AMR-PV70`; Tammen et al., *Mammalian Genome* 2024, `doi:10.1007/s00335-024-10059-y`) |
+| **UCSC Pairwise Syntenic Alignment Chains** | Pairwise genome alignment chains (`bosTau9`, `oviAri4` [`Oar_v4.0`], UCSC GenArk `GCF_016772045.1` [`ARS-UI_Ramb_v2.0`], `hg38`) | UCSC Genome Browser Downloads (`https://hgdownload.soe.ucsc.edu/downloads.html` & `https://hgdownload.soe.ucsc.edu/hubs/GCF/016/772/045/GCF_016772045.1/`) |
 
 ## Author-Generated Model Checkpoints & Genome-Wide Prediction Scores (Zenodo)
 
